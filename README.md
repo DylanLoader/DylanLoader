@@ -7,20 +7,21 @@
 
 ### 🖥️ I’m currently working on
 
-- MSc. Thesis @UniversityofCalgary (remote)
-- item 2
-- item 3
-
+- Finishing my MSc. Thesis @UniversityofCalgary (remote)
+- Building portfolio projects to help with job hunting: https://github.com/DylanLoader/Assorted-Porfolio-Projects
+- Studying for the Google Data Engineer Certification
+- 
 ### 📚 I’m currently learning ...
 
-- item 1
-- item 2
-- item 3
+- Graph Based ML
+- SQL/TSQL
+- Software Engineering Principles in Python
 
 ### Things I'm Interested In
-- Item 1
-- Item 2
-- Item 3 
+- Graph Machine Learning
+- Big Data
+- Dashboarding
+  
 ### 📨 How to reach me: 
 
 I can be reached through email any time at: dylan.loader1@ucalgary.ca
