@@ -10,7 +10,7 @@
 - Finishing my MSc. Thesis @UniversityofCalgary (remote)
 - Building portfolio projects to help with job hunting: https://github.com/DylanLoader/Assorted-Porfolio-Projects
 - Studying for the Google Data Engineer Certification
-- 
+  
 ### 📚 I’m currently learning ...
 
 - Graph Based ML
