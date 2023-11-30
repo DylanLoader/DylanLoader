@@ -28,7 +28,7 @@
 I can be reached through email any time at: dylan.loader1@ucalgary.ca
 
 
-### References
+### Image Reference
 
 Banner generated using: https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0?text=A+collection+of+spheres+connected++in+a+dark+theme+as+a+wide+banner
 
