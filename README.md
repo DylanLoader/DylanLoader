@@ -19,7 +19,8 @@
 
 ### Things I'm Interested In
 - Graph Machine Learning
-- Big Data
+- Financial Modelling
+- LLMs and their use for general applications
 - Dashboarding
   
 ### 📨 How to reach me: 
