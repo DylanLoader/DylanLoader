@@ -7,8 +7,8 @@
 
 ### 🖥️ I’m currently working on
 
-- Finishing my MSc. Thesis @UniversityofCalgary (remote)
-- Building portfolio projects to help with job hunting: https://github.com/DylanLoader/Assorted-Porfolio-Projects
+- Finishing my MSc. Thesis on Fraud Detection for credit cards @UniversityofCalgary (remote)
+- Building some random portfolio projects: https://github.com/DylanLoader/Assorted-Porfolio-Projects
 - Studying for the Google Data Engineer Certification
   
 ### 📚 I’m currently learning ...
