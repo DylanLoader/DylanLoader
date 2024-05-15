@@ -7,9 +7,8 @@
 
 ### 🖥️ I’m currently working on
 
-- Finishing my MSc. Thesis on Fraud Detection for credit cards @UniversityofCalgary (remote)
 - Building some random portfolio projects: https://github.com/DylanLoader/Assorted-Porfolio-Projects
-- Studying for the Google Data Engineer Certification
+- Building fun things with open source LLMs in my spare time
   
 ### 📚 I’m currently learning ...
 
