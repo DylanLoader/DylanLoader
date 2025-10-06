@@ -10,18 +10,6 @@
 - Building some random portfolio projects: https://github.com/DylanLoader/Assorted-Porfolio-Projects
 - Building fun things with open source LLMs in my spare time
   
-### 📚 I’m currently learning ...
-
-- Graph Based ML
-- SQL/TSQL
-- Software Engineering Principles in Python
-
-### Things I'm Interested In
-- Graph Machine Learning
-- Financial Modelling
-- LLMs and their use for general applications
-- Dashboarding
-  
 ### 📨 How to reach me: 
 
 I can be reached through email any time at: dylan.loader1@ucalgary.ca
