@@ -2,9 +2,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dylanloader/dylanloader/pacman-output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dylanloader/dylanloader/pacman-output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dylanloader/dylanloader/pacman-output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DylanLoader/DylanLoader/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DylanLoader/DylanLoader/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DylanLoader/DylanLoader/output/pacman-contribution-graph.svg">
   </picture>
 </div>
 
@@ -19,7 +19,7 @@ I'm a developer who enjoys building portfolio projects and experimenting with op
 
 ## Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,git,github,vscode" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
 </p>
 
 ## What I'm Working On
