@@ -36,5 +36,10 @@ I'm a developer who enjoys building portfolio projects and experimenting with op
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanLoader&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </div>
 
+## GitHub Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DylanLoader&theme=tokyo-night&hide_border=true" alt="Dylan Loader activity graph" />
+</div>
+
 ## Reach Me
 📧 Email: [dylan.loader1@ucalgary.ca](mailto:dylan.loader1@ucalgary.ca)
