@@ -4,15 +4,15 @@
 I'm a developer who enjoys building portfolio projects and experimenting with open source LLMs in my spare time.
 
 ## GitHub Stats
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DylanLoader&show_icons=true&theme=tokyonight&hide_border=true" alt="Dylan Loader GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanLoader&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DylanLoader&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="Dylan Loader GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylanLoader&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+</p>
 
 ## GitHub Activity Graph
-<div align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DylanLoader&theme=tokyo-night&hide_border=true" alt="Dylan Loader activity graph" />
-</div>
+</p>
 
 ## Tech Stack
 <p>
